@@ -9,8 +9,7 @@
 &nbsp;&nbsp;&nbsp; :mortar_board: &nbsp;Final-year student at **Van Lang University** \
 &nbsp;&nbsp;&nbsp; :round_pushpin: &nbsp;Based in **Ho Chi Minh City, Vietnam** \
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Software Engineer \
-&nbsp;&nbsp;&nbsp; :video_game: &nbsp;Love gaming and playing football :soccer: \
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying about software related process and problems
+&nbsp;&nbsp;&nbsp; :video_game: &nbsp;Love gaming and playing football
 
 ---
 
