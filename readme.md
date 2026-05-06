@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 
+<table align="right">
+ <tr><td><a><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png" height="13"> Vietnamese</a></td></tr>
+ <tr><td><a><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" height="13"> English</a></td></tr>
+</table>
 
-<!--
-**txbaro/txbaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :space_invader: About me
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp; :mortar_board: &nbsp;Final-year student at **Van Lang University** \
+&nbsp;&nbsp;&nbsp; :round_pushpin: &nbsp;Based in **Ho Chi Minh City, Vietnam** \
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Software Engineer \
+&nbsp;&nbsp;&nbsp; :video_game: &nbsp;Love gaming and playing football :soccer: \
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying about software related process and problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :computer: Currently work with:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### :mailbox_with_mail: Contact me:
+<p align="left">
+  <a href="mailto:voduongtonbao2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/voduongtonbao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
