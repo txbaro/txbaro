@@ -1,28 +1,20 @@
 ## Hi there 👋 
 <table align="right">
- <tr><td><a><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png" height="13"> Vietnamese</a></td></tr>
- <tr><td><a><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" height="13"> English</a></td></tr>
+  <tr><td>🇻🇳 Vietnamese</td></tr>
+  <tr><td>🇺🇸 English</td></tr>
 </table>
 
 ### :space_invader: About me
 
-&nbsp;&nbsp;&nbsp; :mortar_board: &nbsp;Final-year student at **Van Lang University** \
+&nbsp;&nbsp;&nbsp; :mortar_board: &nbsp;Final-year student \
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Software Engineer  \
 &nbsp;&nbsp;&nbsp; :round_pushpin: &nbsp;Based in **Ho Chi Minh City, Vietnam** \
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Software Engineer \
-&nbsp;&nbsp;&nbsp; :video_game: &nbsp;Love gaming and playing football
 
 ---
 
 ### 💻 Currently work with:
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,postgres,aws,docker,git,linux" />
 </p>
 
 ---
